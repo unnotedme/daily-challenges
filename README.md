@@ -5,3 +5,4 @@ translated from spanish to english by me.
 
 - #0 - the famous "fizz buzz"
 - #1 - is it an anagram?
+- #2 - the fibonacci sequence
