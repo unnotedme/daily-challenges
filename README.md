@@ -8,3 +8,4 @@ translated from spanish to english by me.
 - #2 - the fibonacci sequence
 - #3 - is it a prime number?
 - #4 - polygon area
+- #5 - ratio aspect of an image
