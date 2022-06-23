@@ -9,7 +9,7 @@ write a function that receives two words (strings) and returns true or false (bo
 */
 
 @ExperimentalStdlibApi
-fun main (){
+public fun main(): Unit {
     println(isAnagram("peach", "cheap"))
 }
 

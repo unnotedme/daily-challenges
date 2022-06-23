@@ -8,7 +8,7 @@ create a single function (is important to be only one) that is capable of calcul
 - prints the calculatrion of the area od a polygon of each type.
 */
 
-fun main() {
+fun main(): Unit{
     area(Triangle(10.0, 5.0)) // base and height
     area(Rectangle(5.0, 7.0)) // length and width
     area(Square(4.0)) // sides
