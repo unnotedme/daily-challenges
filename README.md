@@ -7,3 +7,4 @@ translated from spanish to english by me.
 - #1 - is it an anagram?
 - #2 - the fibonacci sequence
 - #3 - is it a prime number?
+- #4 - polygon area
