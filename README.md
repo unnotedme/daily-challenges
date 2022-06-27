@@ -9,3 +9,4 @@ translated from spanish to english by me.
 - #3 - is it a prime number?
 - #4 - polygon area
 - #5 - ratio aspect of an image
+- #6 - inverting chains
