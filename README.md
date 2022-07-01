@@ -10,3 +10,4 @@ translated from spanish to english by me.
 - #4 - polygon area
 - #5 - ratio aspect of an image
 - #6 - inverting chains
+- #7 - counting words
