@@ -11,3 +11,4 @@ translated from spanish to english by me.
 - #5 - ratio aspect of an image
 - #6 - inverting chains
 - #7 - counting words
+- #8 - decimal to binary
